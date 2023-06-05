@@ -1,0 +1,14 @@
+Binary to Decimal:  1010 -> 10
+Decimal to Binary 10 -> 1010
+Decimal to Octal: 10 -> 12
+Decimal to Hexadecimal:   10 -> A
+Binary to Gray:  1010 -> 1111
+1's Complement of   1010 -> 0101
+2's Complement of   1010 -> 0110
+Binary to Decimal:  1001 -> 9
+Binary to Decimal:  11 -> 3
+Decimal to Binary 12 -> 1100
+Binary to Decimal:  101 -> 5
+Binary to Decimal:  1010 -> 10
+Binary to Gray:  1010 -> 1111
+Decimal to Binary 10 -> 1010
