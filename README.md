@@ -28,16 +28,16 @@ Choose the BCD addition option from the menu.
 Enter the BCD numbers to perform addition.
 The program will display the result of the addition.</br>
 
-3.**Complements**:</br>
+3. **Complements**:</br>
 Select the complement option from the menu.
 Enter the binary number to calculate its 1's and 2's complement.
 The program will display the results.</br>
 
-4.**Binary Arithmetic Operations**:</br>
+4. **Binary Arithmetic Operations**:</br>
 Choose the binary arithmetic operation (addition, subtraction, multiplication, division) from the menu.
 Enter the binary operands and follow the prompts to perform the operation.
 The program will display the result of the operation.</br>
 
-5.**History/Previous Records**:</br>
+5. **History/Previous Records**:</br>
 The program will store the history of calculations.
 You can view the previous records by selecting the appropriate option from the menu.
